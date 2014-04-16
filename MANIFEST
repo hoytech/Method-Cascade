@@ -1,0 +1,6 @@
+Changes
+lib/Method/Cascade.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+t/basic.t
