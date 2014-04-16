@@ -7,7 +7,6 @@ my %args = (
     NAME => 'Method::Cascade',
     VERSION_FROM => 'lib/Method/Cascade.pm',
     PREREQ_PM => {
-      'common::sense' => 0,
     },
     LIBS => [],
     DEFINE => '',
