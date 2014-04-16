@@ -108,6 +108,8 @@ L<Wikipedia entry|https://en.wikipedia.org/wiki/Method_cascading>
 
 Doug Hoyte, C<< <doug@hcsw.org> >>
 
+Thanks to Richard Farr for helping me come up with this idea (during a conversation about C++ smart pointers).
+
 
 =head1 COPYRIGHT & LICENSE
 
