@@ -99,7 +99,9 @@ L<The Method::Cascade github repo|https://github.com/hoytech/Method-Cascade>
 
 L<Method Cascades in Dart|http://news.dartlang.org/2012/02/method-cascades-in-dart-posted-by-gilad.html>
 
-L<Wikipedia entry|https://en.wikipedia.org/wiki/Method_cascading>
+L<Wikipedia entry on Method Cascading|https://en.wikipedia.org/wiki/Method_cascading>
+
+L<IO::All> - I/O library that makes heavy use of chaining
 
 
 =head1 AUTHOR
