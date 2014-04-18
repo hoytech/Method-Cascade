@@ -2,7 +2,7 @@ package Method::Cascade;
 
 use strict;
 
-our $VERSION = '0.100';
+our $VERSION = '0.101';
 
 require Exporter;
 use base 'Exporter';
